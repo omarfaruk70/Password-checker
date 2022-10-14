@@ -1,0 +1,18 @@
+/*
+default style
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 300px ;
+    width: 500px;
+    margin: auto;
+    background-color: lightslategray;
+    padding: 50px;
+}
+#checkbox{
+    margin-left: 50px;
+}
